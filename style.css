@@ -1,0 +1,11 @@
+body {
+  background-image: url('https://images.unsplash.com/photo-1591360236499-9c2355422926?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1882&q=80');
+  
+}
+.ci {
+  text-align: center;
+}
+.inputs .all {
+  display: flex;
+  justify-content: center;
+}
